@@ -2,4 +2,4 @@ Hi! I am a PhD candidate in the department of computing science at SFU (CGPA: 4.
 
 Research interests: I develop machine learning, data mining, and statistical analysis methods for high-dimensional and graph structured data. In bioinformatics, I have applied my methods on flow cytometry, scRNAseq, and DNA sequence data.
 
-Hope you have a safe and happy day!
+Hope you have a safe and happy day :)

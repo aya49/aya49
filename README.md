@@ -2,8 +2,7 @@ Hi! I'm Alice Yue, a PhD candidate in the department of computing science at SFU
 
 Research interests: I develop machine learning, data mining, and statistical analysis methods for high-dimensional and graph structured data. In computational biology, I have applied my methods on flow cytometry, scRNAseq, and DNA sequence data.
 
-Publications: [Google Scholar](https://scholar.google.com/citations?hl=en&user=NeWJef4AAAAJ)
-![CV](https://shields.io/badge/style-social-03650f?logo=appveyor&style=social)
-![Google Scholar](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
+[![CV](https://img.shields.io/badge/linkedin-%230077B5.svg?style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliceyue)
+[![Publications](https://img.shields.io/badge/google-4285F4?style=sociale&logo=google&logoColor=white)](https://scholar.google.com/citations?hl=en&user=NeWJef4AAAAJ)
 
 Hope you're having a great day :)

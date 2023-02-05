@@ -1,10 +1,10 @@
-  <a href="https://www.linkedin.com/in/aliceyue/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+
   <a href="https://scholar.google.com/citations?hl=en&user=4IqQ-rwAAAAJ">
     <img src="https://img.shields.io/badge/Google-red?style=flat&logo=google&logoColor=white" alt="Google SCholar Badge"/>
   </a>
-  
+  <a href="https://www.linkedin.com/in/aliceyue/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
   <a href="https://twitter.com/AliceYu82588130">
     <img src="https://img.shields.io/badge/Twitter-white?style=flat&logo=twitter&logoColor=blue" alt="Twitter Badge"/>
   </a>
@@ -14,7 +14,7 @@
   </a>
 </p>
 
-Hi! I'm Alice Yue, a researcher [@Metafora](metafora-biosystems.com/). 
+Hi! I'm Alice Yue, a researcher [@Metafora](https://metafora-biosystems.com/). 
 
 I recently got my PhD in computing science [@SFU](https://www.sfu.ca/) (CGPA: 4.33/4.33). Previously, I recieved my MSc @SFU (CGPA: 4/4.33) and my BSc with distinction [@UVic](https://www.uvic.ca/) (CGPA:8.7/9.0) in the beautiful city of Victoria.
 

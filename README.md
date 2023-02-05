@@ -20,4 +20,3 @@ I recently got my PhD in computing science [@SFU](https://www.sfu.ca/) (CGPA: 4.
 
 **Research interests**: I develop machine learning, data mining, and statistical analysis methods for high-dimensional and graph structured data (:star:). In computational biology, I have applied my methods on flow cytometry (:heart:), scRNAseq, and DNA sequence data.
 
-![Alice's top Langs (by anuraghazra)](https://github-readme-stats.vercel.app/api/top-langs/?username=aya49&layout=compact&theme=gradient)

@@ -14,11 +14,11 @@
   </a>
 </p>
 
-Hi! I'm Alice Yue, a researcher [@Metafora](https://metafora-biosystems.com/). 
+Hi! I'm Alice Yue, a computational biology researcher. 
 
 I recently got my PhD in computing science [@SFU](https://www.sfu.ca/) (CGPA: 4.33/4.33). Previously, I recieved my MSc @SFU (CGPA: 4/4.33) and my BSc with distinction [@UVic](https://www.uvic.ca/) (CGPA:8.7/9.0) in the beautiful city of Victoria.
 
 **Research interests**: 
-- I develop machine learning, data mining methods, and statistical metrics to analyze high-dimensional and graph structured data :star:. 
+- I develop high performance algorithms to analyze very big and graph structured data :star:. 
 - In computational biology, I have applied my methods on flow cytometry :heart:, scRNAseq, and DNA sequence data.
 
